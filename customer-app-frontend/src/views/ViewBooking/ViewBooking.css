@@ -1,0 +1,69 @@
+.booking-details-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 5px;
+    width: 80%; 
+    max-width: 800px; 
+    margin: 0 auto; 
+  }
+  
+  .booking-details {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    width: 100%; 
+  }
+  
+  .detail-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    font-size: 16px; 
+  }
+  
+  .menu-items-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .menu-item {
+    background-color: #f8f8f8;
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-top: 10px;
+  }
+  
+  /* Add button styles */
+.edit-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    margin-right: 10px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .delete-button {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  
+  .edit-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .delete-button:hover {
+    background-color: #c82333;
+  }
+  

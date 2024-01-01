@@ -1,0 +1,7 @@
+{
+  "email_id": "sush@gmail.com",
+  "first_name": "Sush",
+  "last_name": "Saini",
+  "contact_number": "9999999999",
+  "role": "customer"
+}
